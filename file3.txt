@@ -1,3 +1,6 @@
 This is the first line of file 3.
 
 Another check here
+
+File3 change
+
